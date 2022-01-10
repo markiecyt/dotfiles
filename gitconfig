@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = markie054@gmail.com
+	name = Markie Choi
